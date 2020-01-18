@@ -26,20 +26,12 @@
 
 
 [[constraint]]
-  name = "github.com/cheggaaa/pb"
-  version = "3.0.2"
-
-[[constraint]]
   name = "github.com/gorilla/handlers"
   version = "1.4.2"
 
 [[constraint]]
   name = "github.com/gorilla/mux"
   version = "1.7.3"
-
-[[constraint]]
-  branch = "master"
-  name = "github.com/markcheno/go-quote"
 
 [[constraint]]
   name = "go.mongodb.org/mongo-driver"
