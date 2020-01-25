@@ -1,5 +1,5 @@
-# GolangGorillaTemplate
-Gorilla Mix RestAPI template modularized
+# GolangGinTemplate
+Gin Mix RestAPI template modularized
 
 *Built with: go version go1.13.1 darwin/amd64*
 
