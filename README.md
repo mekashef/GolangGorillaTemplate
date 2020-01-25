@@ -15,3 +15,14 @@ Gin Mix RestAPI template modularized
 
 ## Execute
 `./restapi`
+
+
+## Dockerized Solution
+
+### Build Container
+`docker build --tag go_gin .`
+
+### Run Container
+`docker run -p 10000:10000 --name go_gin -d go_gin`
+
+
